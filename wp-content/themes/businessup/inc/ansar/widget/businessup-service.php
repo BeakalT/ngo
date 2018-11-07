@@ -94,7 +94,7 @@ class businessup_service_widget extends WP_Widget {
 	$instance['fa_icon'] = isset($instance['fa_icon']) ? $instance['fa_icon'] : '';
 	?>
 				<div class="clearfix" style="height: 30px;"></div>
-                <label for="<?php echo $this->get_field_id( 'fa_icon' ); ?>"><?php _e( 'Enter  Font Awesome icon class ( like: fa-cloud ). <a href="//fontawesome.io/fa_icons/" target="blank" >Here all icon </a>','businessup' ); ?></label> 
+                <label for="<?php echo $this->get_field_id( 'fa_icon' ); ?>"><?php _e( 'Enter  Font Awesome icon class ( like: fa-cloud ). <a href="https://fontawesome.com/v4.7.0/icons/" target="blank" >Here all icon </a>','businessup' ); ?></label> 
 				  <input class="widefat" id="<?php echo $this->get_field_id( 'fa_icon' ); ?>" name="<?php echo $this->get_field_name( 'fa_icon' ); ?>" type="text" value="<?php echo esc_attr( $instance['fa_icon'] ); ?>" />
 				</td>
    	

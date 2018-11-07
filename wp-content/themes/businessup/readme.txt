@@ -5,7 +5,7 @@ Contributors: Themeansar
 Tags: three-columns, left-sidebar, right-sidebar, custom-colors, custom-logo, featured-images, full-width-template, threaded-comments, blog, e-commerce, entertainment, food-and-drink, news
 Requires at least: 4.0.5
 Tested up to: 4.8.1
-Stable tag: 1.8.8
+Stable tag: 1.8.9
 
 == Theme License & Copyright ==
 Businessup is distributed under the terms of the GNU GPL
@@ -110,3 +110,7 @@ This theme uses Underscores
 1. Fixed sidebar issue.
 -- Version 1.8.8 ----
 1. Fix navigation styling issue.
+-- Version 1.8.9 ----
+1. Add the scroll to top.
+-- Version 1.9 ----
+1. update Font-awesome icon link.

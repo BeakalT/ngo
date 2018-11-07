@@ -32,7 +32,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-			<p>&copy; <?php echo esc_html(date('Y')).' '; bloginfo( 'name' ); ?> | <?php printf( esc_html__( 'DEVELOPED BY %1$s', 'businessup' ),  '<a href="'.esc_url('').'" rel="designer">ANONYMOUS </a>' ); ?></p>
+			<p>&copy; <?php echo esc_html(date('Y')).' '; bloginfo( 'name' ); ?> | <?php printf( esc_html__( 'Theme by %1$s', 'businessup' ),  '<a href="'.esc_url('https://www.themeansar.com').'" rel="designer">Theme Ansar</a>' ); ?></p>
 		</div>
         <div class="col-md-6 col-sm-6 text-right text-center-xs">
           <?php if ( has_nav_menu( 'social' ) ) : ?>
@@ -55,6 +55,9 @@
   </div>
 </footer>
 </div>
+<!--Scroll To Top--> 
+<a href="#" class="ta_upscr bounceInup animated"><i class="fa fa-long-arrow-up"></i></a> 
+<!--/Scroll To Top-->
 <?php wp_footer(); ?>
 </body>
 </html>

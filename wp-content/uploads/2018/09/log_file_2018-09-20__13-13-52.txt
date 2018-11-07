@@ -1,0 +1,48 @@
+
+---Downloaded files---
+The import files for: Businessup were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/AYSI
+Data file = C:\wamp64\www\AYSI/wp-content/uploads/2018/09/demo-content-import-file_2018-09-20__13-13-52.xml
+Widget file = C:\wamp64\www\AYSI/wp-content/uploads/2018/09/demo-widgets-import-file_2018-09-20__13-13-52.json
+Customizer file = C:\wamp64\www\AYSI/wp-content/uploads/2018/09/demo-customizer-import-file_2018-09-20__13-13-52.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - Recent Post - Imported
+Tag Cloud - Tags - Imported
+
+Footer Widget Area : 
+
+Text - About - Imported
+Recent Posts - Recent Post - Imported
+Tag Cloud - Tags - Imported
+
+Service Home Widget Area : 
+
+BUP - Service Widget - No Title - Imported
+BUP - Service Widget - No Title - Imported
+BUP - Service Widget - No Title - Imported
+
+Slider Section Widgets : 
+
+BUP - Slider Widget - No Title - Imported
+BUP - Slider Widget - No Title - Imported
+BUP - Slider Widget - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

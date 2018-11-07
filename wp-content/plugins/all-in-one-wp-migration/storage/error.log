@@ -1,3 +1,6 @@
 Nov 07 2018 06:54:21
 {"type":8,"message":"Use of undefined constant WAPPPRESS_SETTINGS - assumed 'WAPPPRESS_SETTINGS'","file":"C:\\wamp64\\www\\ngo\\wp-content\\plugins\\wapppress-builds-android-app-for-website\\includes\\wappPress_theme_switcher.php","line":51}
 
+Nov 07 2018 11:33:28
+{"type":8,"message":"Use of undefined constant WAPPPRESS_SETTINGS - assumed 'WAPPPRESS_SETTINGS'","file":"C:\\wamp64\\www\\ngo\\wp-content\\plugins\\wapppress-builds-android-app-for-website\\includes\\wappPress_theme_switcher.php","line":51}
+
